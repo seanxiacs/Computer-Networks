@@ -1,4 +1,4 @@
 # Computer-Networks
-This is from my Computer Networks class. 
+This is from my Computer Networks class. (Python)
 
 In this course, we had 3 written homework assignments and 3 programming homework assignments. I used Python for all 3 programming assignments for the ease of use. The first programming homework assignment (HW1) focused on accessing a website through a proxy I believe. I believe it might've only worked with HTTP and not HTTPS websites but I am not competely sure. For the second (HW2), we analyzed packets from a .pcap file. For the third (HW3), we created a server pinger in Python and did some analysis on the received packets for each ping. More information can be found in the README.md files in each specific directory for the programming assignments along with the homework file document detailing the instructions or tasks that we had to complete with our code.
